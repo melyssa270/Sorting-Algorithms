@@ -25,16 +25,3 @@ In the recursive function, `.slice()` is typically used to divide the array into
 
 By using **indexes (start and end)**, we pass references to the original array without creating additional copies. This method improves the algorithm's **space complexity** and makes it more **memory-efficient**.
 
-
-### How to Run the Code
-***1.*** Clone this repository:
-```bash
-git clone https://github.com/your-username/merge-sort-js.git
-cd merge-sort-js
-```
-
-***2.*** Run the code:
-```bash
-node index.js
-```
-
